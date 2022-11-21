@@ -5,3 +5,4 @@ For the second part I created a while loop to keep looping through until it brea
 My code is written in python and it is written by me
 
 You can test my code by inputing your own string of integers and seeing if it unlocks and locks the security device. 
+I also created unittesting methods to see if the code passes as well.
